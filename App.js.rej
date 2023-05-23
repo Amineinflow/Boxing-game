@@ -1,0 +1,9 @@
+diff a/App.js b/App.js	(rejected hunks)
+@@ -10,7 +10,6 @@
+   return (
+     <FighterProvider>
+       <View style={styles.container}>
+-        <Text>Open up App.js to start working on your app!</Text>
+         <StatusBar style="auto" />
+       </View>
+       <AddScreen />
